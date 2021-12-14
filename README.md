@@ -1,3 +1,3 @@
 # BMI
 
-<img src="/Simulator.gif" width="350"/>
+<img src="/Simulator.gif" width="355"/>
